@@ -46,8 +46,6 @@ jobs:
         sudo apt-get install -y nodejs
 
         nodejs --version
-        
-        npm install -g -y npm
 
         npm --version
 
